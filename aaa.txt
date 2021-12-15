@@ -10,3 +10,12 @@ Accept-Encoding: gzip, deflate
 Connection: keep-alive
 cache-control: no-cache
 
+collect API body
+
+{
+    "method": "performReboot",
+    "params": {
+        "time": "now"
+    },
+    "id": 10
+}
