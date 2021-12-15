@@ -1,0 +1,12 @@
+GET /status HTTP/1.1
+Host: dev.web.local
+Accept: application/json
+Authorization: Bearer abc123
+User-Agent: PostmanRuntime/7.20.1
+Cache-Control: no-cache
+Postman-Token: bc1d42b4-b84f-48df-a330-282665210897,ab490ada-ce51-482e-a242-a291b49a858a
+Host: dev.web.local
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+cache-control: no-cache
+
